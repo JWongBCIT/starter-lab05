@@ -1,5 +1,5 @@
 <div class="row">
-   <div class="errors">{message}</div>
+   <div class="errors"> {message} </div>
   <form action="/admin/confirm" method="post">
     {fid}
     {fwho}
